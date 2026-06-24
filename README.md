@@ -1,3 +1,3 @@
 # Zephyr RTOS
 
-https://github.com/Summer-siemens-stm32/.github.git
+[Zephyr Project Documentation — Zephyr Project Documentation](https://docs.zephyrproject.org/latest/index.html)
